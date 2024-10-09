@@ -60,6 +60,8 @@
 
 ## Steps to Draw a Flowchart
 
+![Alt Text](https://www.smartdraw.com/flowchart/flowchart-symbols.htm)
+
 1. Layout each step of your process with a shape.
 2. Connect the shapes using arrows to show the sequence.
 3. Organize and emphasize key steps with colors or design elements.
